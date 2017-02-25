@@ -1,0 +1,11 @@
+{
+  "name": "ts-stringenum",
+  "version": "1.0.0",
+  "description": "Simplifies typed string enumerations in typescript",
+  "main": "index.js",
+  "author": "Ben Sammons",
+  "license": "MIT",
+  "engines": {
+    "node": "6+"
+  }
+}
