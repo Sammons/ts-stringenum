@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Ben Sammons",
   "license": "MIT",
+  "repository": {
+    "url": "git@github.com:Sammons/ts-stringenum.git",
+    "type": "git"
+  },
   "engines": {
     "node": "6+"
   }
